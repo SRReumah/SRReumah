@@ -7,10 +7,10 @@ Sherin Rajan Reumah
 ---
 
 ```yaml
-currently : IBM SkillsBuild Academic Internship · AI Automation (AICTE · BharatCares)
-focus     : network security · web exploitation · IDS · IPS
+Currently : IBM SkillsBuild Academic Internship · AI Automation (AICTE · BharatCares)
+Focus     : Network Security · Web Exploitation · IDS · IPS
 ```
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xmdGYwejBwbmVkY2J1aDNzeGFkZjF2ZmYxZndnZjlmazhjbnJ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8IIUwihhFu7O90I8l/giphy.gif" width="300" align="right"/>
+
 ---
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
