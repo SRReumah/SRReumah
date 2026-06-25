@@ -1,8 +1,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNocWRwdmw0NjVzcnU5cXY3bHQ2eWV2YjBsMm14N3dreG13em82NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7GjMqTqfyv4I/giphy.gif" width="100%" height="80px" style="object-fit:cover;"/>
 
-```
-Sherin Rajan Reumah
-```
+# Sherin Rajan Reumah
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-CCFF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sherinrreumah.netlify.app)
 
 ---
 
@@ -24,3 +24,8 @@ Focus     : Network Security · Web Exploitation · IDS · IPS
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
 
 ---
+
+| Repo | What it is |
+|---|---|
+| [Purple_team_pentest](https://github.com/SRReumah/Purple_team_pentest) | Attack + detect lab on DVWA — Nmap recon, Hydra brute force, SQLi/XSS, Suricata IDS rule |
+| [Block_Chain_Access_Gateway_Alerts](https://github.com/SRReumah/Block_Chain_Access_Gateway_Alerts) | Anomaly alert system for blockchain gateway access events |
