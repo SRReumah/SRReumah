@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNocWRwdmw0NjVzcnU5cXY3bHQ2eWV2YjBsMm14N3dreG13em82NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7GjMqTqfyv4I/giphy.gif" width="280" align="right"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNocWRwdmw0NjVzcnU5cXY3bHQ2eWV2YjBsMm14N3dreG13em82NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7GjMqTqfyv4I/giphy.gif" width="100%" height="80px" style="object-fit:cover;"/>
 
 ```
 sherin@reumah:~$ whoami
