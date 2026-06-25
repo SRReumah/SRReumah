@@ -7,7 +7,6 @@
 ---
 
 ```yaml
-Currently : IBM SkillsBuild Academic Internship · AI Automation (AICTE · BharatCares)
 Focus     : Network Security · Web Exploitation · IDS · IPS
 ```
 
