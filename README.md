@@ -1,19 +1,16 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNocWRwdmw0NjVzcnU5cXY3bHQ2eWV2YjBsMm14N3dreG13em82NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7GjMqTqfyv4I/giphy.gif" width="100%" height="80px" style="object-fit:cover;"/>
 
 ```
-sherin@reumah:~$ whoami
-B.Tech CSBS · Model Engineering College, Kerala
-Networks & Security
+Sherin Rajan Reumah
 ```
 
 ---
 
 ```yaml
 currently : IBM SkillsBuild Academic Internship · AI Automation (AICTE · BharatCares)
-focus     : network security · web exploitation · IDS
-building  : purple team pentest lab · wpa2 audit
+focus     : network security · web exploitation · IDS · IPS
 ```
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xmdGYwejBwbmVkY2J1aDNzeGFkZjF2ZmYxZndnZjlmazhjbnJ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8IIUwihhFu7O90I8l/giphy.gif" width="300" align="right"/>
 ---
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -27,9 +24,3 @@ building  : purple team pentest lab · wpa2 audit
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
 
 ---
-
-| repo | what |
-|---|---|
-| [Purple_team_pentest](https://github.com/SRReumah/Purple_team_pentest) | attack + detect lab · SQLi · XSS · Suricata IDS · Kali |
-| [Block_Chain_Access_Gateway_Alerts](https://github.com/SRReumah/Block_Chain_Access_Gateway_Alerts) | anomaly alerts on blockchain gateway access events |
-| [Blood_Bank_Management](https://github.com/SRReumah) | donor & inventory tracking app · Java · XML |
